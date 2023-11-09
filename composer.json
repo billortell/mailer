@@ -1,0 +1,14 @@
+{
+  "name": "billortell/mailer",
+  "description": "Helper for mailer in PHP using PHPMailer.",
+  "autoload": {
+    "psr-4": {
+      "Helpers\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpmailer/phpmailer": "dev-master"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}

@@ -6,7 +6,7 @@
       "Helpers\\": "src/"
     }
   },
-  "require-dev": {
+  "require": {
     "phpmailer/phpmailer": "dev-master"
   },
   "minimum-stability": "stable",

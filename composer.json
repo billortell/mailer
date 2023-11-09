@@ -9,6 +9,6 @@
   "require": {
     "phpmailer/phpmailer": "dev-master"
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "prefer-stable": true
 }
